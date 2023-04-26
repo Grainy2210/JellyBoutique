@@ -1,5 +1,5 @@
 <?php
-/*Hello Word*/
+/*Hello World*/
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
